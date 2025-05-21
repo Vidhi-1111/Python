@@ -1,7 +1,7 @@
 # Task 1
 # odd or even
 n= float(input("Enter a number: "))
-if n%2:
+if n==n%2:
     print("The given number is even")
 else:
     print("This is an odd number")
